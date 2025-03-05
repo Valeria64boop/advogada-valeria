@@ -1,9 +1,9 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <div class="logo">VALÉRIA GIRALDI</div>
     <p>Advocacia Especializada</p>
-    <p>OAB/SP 472974</p> <!-OAB/SP 472974->
+    <p>OAB/SP 472974</p> 
 </header>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
